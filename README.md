@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 "Sering salah ngetik, tapi benerinnya cepat kok."
+- 🤔 "Hello, world! (Still learning the rest.)"
+- 💬 "Programmer tanpa masa depan, tukang ngoding tanpa arah."
+- 👯 "Just a human trying to make a robot friend."
+- ⚡ "Code > social life." 
 - 🌱 I’m currently learning Java language
 - 😄😄
 
