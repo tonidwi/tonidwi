@@ -56,11 +56,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://open.spotify.com/user/1rhf2mbcvz59n24f0qhbnhj36">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1rhf2mbcvz59n24f0qhbnhj36&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1rhf2mbcvz59n24f0qhbnhj36&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
 ##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonidwi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tonidwi&theme=dark&hide_border=false)<br/>
