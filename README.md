@@ -1,7 +1,10 @@
 
 
 ![toni dwi utomo](img/github-header-banner.png)
-![santai](img/1_MfPRCOniW3SPY7Mqc9FjxQ.gif)
+
+<div align="center">
+  <img src="img/1_MfPRCOniW3SPY7Mqc9FjxQ.gif" alt="Deskripsi gambar" width="750" style="border-radius : 1.5%" >
+</div>
 
 #### Hello World! i'm Toni Dwi Utomo 👋
 <!--
