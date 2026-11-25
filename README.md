@@ -22,7 +22,7 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 | Kategori | Tools | Status | Proyek |
 |---|---|---|---|
-| Pengolahan Data | Excel/Spreadsheet | 📚 Learning | [Klik Disini] |
+| Pengolahan Data | Excel/Spreadsheet | 📚 Learning | [Klik Disini](https://github.com/tonidwi/Proyek_Excel-Spreadsheet/blob/main/README.md) |
 | Database | SQL | 📚 Learning | [Klik Disini](https://github.com/tonidwi/proyek_SQL/blob/main/README.md) |
 | Data Visualization | Tableau | 📚 Learning | [Klik Disini] |
 | Dokumentasi | Microsoft Office | 📚 Learning | [Klik Disini] |
