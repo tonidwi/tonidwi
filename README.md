@@ -22,9 +22,9 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 | Kategori | Tools | Status | Proyek |
 |---|---|---|---|
-| Pengolahan Data | Microsoft Excel | 📚 Learning | [Klik Disini] |
+| Pengolahan Data | Excel/Spreadsheet | 📚 Learning | [Klik Disini] |
 | Database | SQL | 📚 Learning | [Klik Disini] |
-| Data Visualization | Power BI | 📚 Learning | [Klik Disini] |
+| Data Visualization | Tableau | 📚 Learning | [Klik Disini] |
 | Dokumentasi | Microsoft Office | 📚 Learning | [Klik Disini] |
 | Pemrograman | Python | ⏳ Coming Soon | [Klik Disini] |
 | Data Analysis | Pandas, NumPy | ⏳ Coming Soon | [Klik Disini] |
