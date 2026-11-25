@@ -1,96 +1,66 @@
-# Hi there! 👋 I'm Toni Dwi Utomo
+# Halo, saya Toni Dwi Utomo 👋
 
-### Aspiring Data Analyst | Turning Data into Meaningful Insights
+### Calon Data Analyst | Business Intelligence Enthusiast
 
-Welcome to my GitHub!
+Saya merupakan lulusan S1 Teknik Informatika yang memiliki ketertarikan pada bidang Data Analytics dan Business Intelligence.
 
-I'm an Information Technology graduate who enjoys solving problems through data. I believe that every dataset tells a story, and my goal is to transform raw data into clear insights that support better decision-making.
-
-This GitHub is my learning journal and portfolio, where I document my progress, projects, and continuous growth in data analytics.
+Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk membantu proses pengambilan keputusan bisnis.
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 Tentang Saya
 
-- 🎓 Bachelor's Degree in Information Technology
-- 📊 Aspiring Data Analyst based in Indonesia
-- 📚 Currently improving my skills through hands-on projects
-- 💡 Passionate about data cleaning, business analysis, and data visualization
-- 🎯 Working toward a career in Data Analytics
-
----
-
-## 🛠️ Tech Stack
-
-### Data Analysis
-- Microsoft Excel
-- SQL (PostgreSQL)
-- Python
-- Power BI
-
-### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-
-### Other Tools
-- Git & GitHub
-- VS Code
-- DBeaver
+- 🎓 Lulusan S1 Teknik Informatika – Universitas Esa Unggul.
+- 📊 Memiliki ketertarikan pada Data Analytics dan Business Intelligence.
+- 📈 Sedang mengembangkan kemampuan pengolahan dan analisis data.
+- 🎯 Berfokus membangun kompetensi sebagai Junior Data Analyst.
+- 🌱 Terus belajar melalui latihan, studi kasus, dan proyek analisis data.
 
 ---
 
-## 📂 Repositories
+### 🛠️ Keahlian dan Tools
 
-| Repository | Description |
-|------------|-------------|
-| 📊 Excel Projects | Data cleaning, formulas, dashboards, and business case studies |
-| 🗄️ SQL Projects | SQL queries, business analysis, and reporting |
-| 📈 Power BI Projects | Interactive dashboards and KPI reports |
-| 🐍 Python Projects | EDA, data cleaning, visualization, and analytics |
+| Kategori | Tools |
+|---|---|
+| Pengolahan Data | Microsoft Excel |
+| Database | SQL |
+| Pemrograman | Python |
+| Data Visualization | Power BI |
+| Data Analysis | Pandas, NumPy |
+| Dokumentasi | Microsoft Office |
 
 ---
 
-## 📖 What You'll Find Here
+### 📂 Proyek Data Analytics
 
-- Real-world inspired case studies
-- Data cleaning workflows
-- Business problem solving
+| No. | Nama Proyek | Deskripsi |
+|---|---|---|
+| 01 | Sales Performance Analysis | Analisis performa dan tren penjualan |
+| 02 | Customer Analysis | Analisis perilaku dan segmentasi pelanggan |
+| 03 | Inventory Analysis | Analisis persediaan dan pergerakan stok |
+
+*Proyek akan diperbarui seiring perkembangan pembelajaran dan pengerjaan studi kasus.*
+
+---
+
+### 📚 Sedang Mempelajari
+
+- SQL untuk analisis data
+- Python untuk Data Analysis
+- Microsoft Power BI
+- Data Cleaning dan Data Processing
 - Exploratory Data Analysis (EDA)
-- Interactive dashboards
-- SQL solutions
-- Python notebooks
-- Business insights and recommendations
+- Data Visualization
+- Business Intelligence
 
 ---
 
-## 🎯 Current Learning Roadmap
+### 📫 Hubungi Saya
 
-- ✅ Microsoft Excel
-- 🔄 SQL
-- 🔄 Power BI
-- 🔄 Python
-- ⏳ Statistics
-- ⏳ End-to-End Data Analytics Projects
+- GitHub: [Profil GitHub]
+- LinkedIn: [Profil LinkedIn]
+- Email: [Email Profesional]
 
 ---
 
-## 📈 Goals for This GitHub
-
-- Build high-quality analytics projects
-- Apply analytical thinking to business problems
-- Share my learning journey
-- Continuously improve technical and communication skills
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tonidwiutomo
-  
-
----
-
-> **"Data is valuable only when it leads to better decisions."**
-
-⭐ Thanks for visiting my GitHub profile!
+*"Mengubah data menjadi informasi, dan informasi menjadi keputusan."*
