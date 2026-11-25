@@ -2,7 +2,7 @@
 
 ### Calon Data Analyst | Business Intelligence Enthusiast
 
-Saya merupakan lulusan S1 Teknik Informatika yang memiliki ketertarikan pada bidang Data Analytics dan Business Intelligence.
+Saya merupakan lulusan S1 Teknik Informatika – Universitas Esa Unggul yang memiliki ketertarikan pada bidang Data Analytics dan Business Intelligence.
 
 Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk membantu proses pengambilan keputusan bisnis.
 
@@ -20,14 +20,15 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 ### 🛠️ Keahlian dan Tools
 
-| Kategori | Tools |
-|---|---|
-| Pengolahan Data | Microsoft Excel |
-| Database | SQL |
-| Pemrograman | Python |
-| Data Visualization | Power BI |
-| Data Analysis | Pandas, NumPy |
-| Dokumentasi | Microsoft Office |
+| Kategori | Tools | Status | Proyek |
+|---|---|---|---|
+| Pengolahan Data | Microsoft Excel | 📚 Learning | [Klik Disini] |
+| Database | SQL | 📚 Learning | [Klik Disini] |
+| Data Visualization | Power BI | 📚 Learning | [Klik Disini] |
+| Dokumentasi | Microsoft Office | 📚 Learning | [Klik Disini] |
+| Pemrograman | Python | ⏳ Coming Soon | [Klik Disini] |
+| Data Analysis | Pandas, NumPy | ⏳ Coming Soon | [Klik Disini] |
+| Machine Learning | Scikit-learn | ⏳ Coming Soon | [Klik Disini] |
 
 ---
 
@@ -35,9 +36,9 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 | No. | Nama Proyek | Deskripsi |
 |---|---|---|
-| 01 | [Sales Performance Analysis](https://github.com/tonidwi/excel-project/blob/main/Retail-Sales-Dashboard/dashboard.xlsx/sales_dataset.xlsx) | Analisis performa dan tren penjualan |
-| 02 | [Customer Analysis]() | Analisis perilaku dan segmentasi pelanggan |
-| 03 | [Inventory Analysis]() | Analisis persediaan dan pergerakan stok |
+| 01 | Sales Performance Analysis | Analisis performa dan tren penjualan |
+| 02 | Customer Analysis | Analisis perilaku dan segmentasi pelanggan |
+| 03 | Inventory Analysis | Analisis persediaan dan pergerakan stok |
 
 *Proyek akan diperbarui seiring perkembangan pembelajaran dan pengerjaan studi kasus.*
 
@@ -46,12 +47,22 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 ### 📚 Sedang Mempelajari
 
 - SQL untuk analisis data
-- Python untuk Data Analysis
 - Microsoft Power BI
 - Data Cleaning dan Data Processing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Intelligence
+
+---
+
+### ⏳ Coming Soon
+
+- Python for Data Analysis
+- Pandas & NumPy
+- Data Analysis Automation
+- Machine Learning (ML)
+- Predictive Analytics
+- Scikit-learn
 
 ---
 
