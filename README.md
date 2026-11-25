@@ -35,7 +35,7 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 | No. | Nama Proyek | Deskripsi |
 |---|---|---|
-| 01 | Sales Performance Analysis | Analisis performa dan tren penjualan |
+| 01 | [Sales Performance Analysis](...) | Analisis performa dan tren penjualan |
 | 02 | Customer Analysis | Analisis perilaku dan segmentasi pelanggan |
 | 03 | Inventory Analysis | Analisis persediaan dan pergerakan stok |
 
