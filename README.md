@@ -68,9 +68,9 @@ Saya tertarik mengolah data mentah menjadi informasi yang bermanfaat untuk memba
 
 ### 📫 Hubungi Saya
 
-- GitHub: [Profil GitHub]
-- LinkedIn: [Profil LinkedIn]
-- Email: [Email Profesional]
+- GitHub: [tonidwi](https://github.com/tonidwi)
+- LinkedIn: [tonidwiutomo](www.linkedin.com/in/tonidwiutomo)
+- Email: [tonidwiutomo465@gmail.com](tonidwiutomo465@gmail.com)
 
 ---
 
